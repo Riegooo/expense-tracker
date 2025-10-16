@@ -18,8 +18,8 @@ Make sure you have:
 Clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/Riegooo/simple-expense-tracker.git
-cd simple-expense-tracker
+git clone https://github.com/Riegooo/expense-tracker.git
+cd expense-tracker
 npm install
 ```
 
