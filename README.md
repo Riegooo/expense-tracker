@@ -5,8 +5,6 @@ Users can record their daily expenses, view all entries, and calculate the total
 
 This project was created as part of my JavaScript learning challenge and exercise
 
-It’s a great beginner-friendly project to strengthen your skills in building interactive console applications with Node.js.
-
 ---
 
 ## ⚙️ Requirements
