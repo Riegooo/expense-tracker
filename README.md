@@ -1,4 +1,4 @@
-# 💰 Expense Tracker
+#  Expense Tracker
 
 A simple console-based expense tracking application built using Node.js.
 Users can record their daily expenses, view all entries, and calculate the total amount — all directly in the terminal.
@@ -7,13 +7,13 @@ This project was created as part of my JavaScript learning challenge and exercis
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 Make sure you have:
 - [Node.js](https://nodejs.org/) installed on your system
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Clone the repository and run the following commands:
 
