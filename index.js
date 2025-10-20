@@ -12,7 +12,7 @@ let expenses = [];
 let running = true;
 
 while (running){
-    console.log("\n=== Expense Tracker Option ===");
+    console.log("\n=== Expense Tracker Options ===");
     for (let key in optionList){
         console.log(`${key}. ${optionList[key]}`);
     }
