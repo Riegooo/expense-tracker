@@ -1,7 +1,7 @@
 
 const prompt = require("prompt-sync")();
 
-const menu = {
+const optionList = {
     1: 'Add Expense',
     2: 'View Expenses',
     3: 'View Total',
@@ -12,9 +12,9 @@ let expenses = [];
 let running = true;
 
 while (running){
-    console.log("\n=== Expense Tracker Menu ===");
-    for (let key in menu){
-        console.log(`${key}. ${menu[key]}`);
+    console.log("\n=== Expense Tracker Option ===");
+    for (let key in optionList){
+        console.log(`${key}. ${optionList[key]}`);
     }
 
     const choose = prompt("Choose an option (1-4) : ");
